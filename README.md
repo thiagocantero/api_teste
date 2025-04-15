@@ -17,7 +17,7 @@ app/
 │   ├── PostDTO.php
 ```
 
-- **`Services/Api/`**: Contém classes responsáveis por consumir APIs externas.
+- **`Services/`**: Contém classes responsáveis por consumir APIs externas.
 - **`DTOs/`**: Contém classes que representam objetos de transferência de dados, garantindo que os dados sejam manipulados de forma consistente.
 
 ---
